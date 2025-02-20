@@ -23,7 +23,7 @@ class ProductController extends Controller
             ['name' => 'Seafood Platter', 'price' => 25.99],
             ['name' => 'Cheesecake', 'price' => 5.99],
             ['name' => 'BBQ Ribs', 'price' => 18.99],
-            ['name' => 'Vegetable Stir Fry', 'price' => 9.49],
+            ['name' => 'Vegetable Stir Fry', 'price' => 8.49],
             ['name' => 'Quiche', 'price' => 7.49],
             ['name' => 'Caprese Salad', 'price' => 8.99],
         ];
